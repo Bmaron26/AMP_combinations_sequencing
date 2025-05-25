@@ -6,7 +6,6 @@ This repository contains the Python code and associated data files used for the 
 
 **Uncovering the Genetic Basis of Staphylococcus aureus Resistance to Single Antimicrobial Peptides and Their Combinations**
 
-(Accepted to iScience)
 
 The script `Data_analysis.py` performs statistical analyses and generates plots to investigate the effects of different antimicrobial peptide (AMP) treatments (single vs. combination) on the number of mutations and the similarity of mutation profiles in evolved bacterial populations.
 
@@ -19,7 +18,7 @@ Please cite the specific version archived on Zenodo:
 
 
 **To cite the associated manuscript:**
-Maron, B., et al. 2025. iScience (final update will be added after publishing)
+Maron, B., Zanchi, C., Johnston, P., Rolff, J., Friedman, J., & Hayouka, Z. (2025). Uncovering the Genetic Basis of Staphylococcus aureus Resistance to Single Antimicrobial Peptides and Their Combinations. _iScience_.
 
 
 ## Contents
